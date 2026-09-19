@@ -1,0 +1,401 @@
+{
+  "project": "Zhang Zhung Snyan Rgyud OCR Index",
+  "description": "Structured index of three editions of the Zhang Zhung Snyan Rgyud (象雄耳传) OCR output",
+  "texts": [
+    {
+      "text_id": "W1CZ1000",
+      "title_zh": "象雄耳传口授教法文集（乌坚体木刻版）",
+      "title_bo": "ཞང་ཞུང་སྙན་རྒྱུད་ཀྱི་གསུང་པོད",
+      "edition": "乌坚体/木刻版 (Uchen woodblock)",
+      "source_note": "Microfilm from D.L. Snellgrove collection, SOAS, filmed 1962",
+      "total_pages": 662,
+      "content_start_page": 5,
+      "sections": [
+        {
+          "start_page": 1,
+          "title": "标题页/书目信息",
+          "title_bo": "",
+          "notes": "TBRC catalog title page"
+        },
+        {
+          "start_page": 5,
+          "title": "正文起始",
+          "title_bo": "",
+          "notes": "First page with Tibetan content (Uchen woodblock)"
+        },
+        {
+          "start_page": 9,
+          "title": "觉性布谷鸟·神人传承品",
+          "title_bo": "རིག་པའི་ཁུ་བྱུང་ལས༔ གཤེན་གྱི་བརྒྱུད་པའི་ལེའུ",
+          "notes": "Chapter of the Shen Lineage from Cuckoo of Awareness"
+        },
+        {
+          "start_page": 139,
+          "title": "光明续·心要秘密普巴文",
+          "title_bo": "འོད་གསལ་ཞེས་བྱ་བའི་རྒྱུད་ཐུགས་ཀྱི་སྙིང་པོ་གསང་བ་ཕུར་བའི་ཡི་གེ",
+          "notes": "Tantra called Luminosity — Secret Heart-Essence Phurba Text"
+        },
+        {
+          "start_page": 153,
+          "title": "色究竟天·象雄语耳传部",
+          "title_bo": "འོག་མིན་ཞིང་ཁམས་ཞུང་སྐད་ཡང་ཡིག་སྙན་བརྒྱུད་ཀྱི་སྐོར",
+          "notes": "Akanishtha Realm Zhang Zhung Language Oral Transmission Section"
+        },
+        {
+          "start_page": 154,
+          "title": "四续中间灌顶释",
+          "title_bo": "རྒྱུད་བཞི་པའི་བར་དབང་གིས་བཤད་པ",
+          "notes": "Explanation by Intermediate Empowerment of the Four Tantras"
+        },
+        {
+          "start_page": 189,
+          "title": "光明大圆满耳传·上师瑜伽",
+          "title_bo": "འོད་གསལ་རྫོགས་པའི་སྙན་རྒྱུད་ལས༔ བླ་མའི་རྣལ་འབྱོར",
+          "notes": "Guru Yoga from the Luminous Dzogchen Oral Transmission"
+        },
+        {
+          "start_page": 201,
+          "title": "下部障碍寂灭事业法",
+          "title_bo": "འོག་པའི་བར་ཆད་ཞི་བའི་ལས་སྦྱོར་བཀོད་པ",
+          "notes": "Arrangement of Pacifying Obstacle Activities"
+        },
+        {
+          "start_page": 241,
+          "title": "大持明传规成就法",
+          "title_bo": "རིག་འཛིན་ཆེན་པོའི་ལུགས་སྒྲུབ་ཐབས",
+          "notes": "Sadhana of the Great Vidyadhara Tradition"
+        },
+        {
+          "start_page": 255,
+          "title": "觉性裸见续部·真实心要窍诀",
+          "title_bo": "རིག་པ་གཅེར་མཐོང་རྒྱུད་སྐོར་ལས་ཡང་དག་པའི་འདི་ཐུགས་བསྟུད་པ",
+          "notes": "True Heart-Instruction from the Naked Awareness Tantra Cycle"
+        },
+        {
+          "start_page": 277,
+          "title": "大觉性象雄耳传部（总摄）",
+          "title_bo": "རིག་པ་ཆེན་པོ་ཞང་ཞུང་སྙན་རྒྱུད་ཀྱི་སྐོར་ལས",
+          "notes": "Major section heading: From the Great Awareness Zhang Zhung Oral Transmission Cycle"
+        },
+        {
+          "start_page": 306,
+          "title": "大乘论典·佛功德品",
+          "title_bo": "ཐེག་པ་ཆེན་པོའི་བསྟན་བཅོས་ལས། སངས་རྒྱས་ཀྱི་ཡོན་ཏན་བསྟན་པའི་ལེའུ",
+          "notes": "Chapter on Buddha-Qualities from the Mahayana Treatise"
+        },
+        {
+          "start_page": 431,
+          "title": "功德化身·安乐持母",
+          "title_bo": "ཡོན་ཏན་སྤྲུལ་སྐུར་ལས... བདེ་སྐྱོང་མ",
+          "notes": "Bliss-Sustaining [Female] from Qualities-Nirmanakaya"
+        },
+        {
+          "start_page": 441,
+          "title": "象雄耳传部（再总摄）",
+          "title_bo": "ཞང་ཞུང་སྙན་རྒྱུད་སྐོར",
+          "notes": "Zhang Zhung Oral Transmission Cycle re-wrapper"
+        },
+        {
+          "start_page": 457,
+          "title": "见智慧部",
+          "title_bo": "མཐོང་བའི་ཤེས་རབ་ཀྱི་སྐོར",
+          "notes": "Section on the Prajna of Seeing"
+        },
+        {
+          "start_page": 473,
+          "title": "大觉性续部",
+          "title_bo": "རིག་པ་ཆེན་པོའི་རྒྱུད་ཀྱི་སྐོར",
+          "notes": "Great Awareness Tantra Cycle"
+        },
+        {
+          "start_page": 487,
+          "title": "象雄耳传母子部",
+          "title_bo": "ཞང་ཞུང་སྙན་བརྒྱུད་ཀྱི་སྐོར་མ་བུའེ",
+          "notes": "Mother-Son cycle of Zhang Zhung Oral Transmission"
+        },
+        {
+          "start_page": 529,
+          "title": "光明明点·心引导大布局密意",
+          "title_bo": "འོད་གསལ་ཐིག་ལེ་ཞང་ཞུང་སྙན་རྒྱུད་ལས། སེམས་ཁྲིད་བུ་ཆེར་བཀོད་པའི་དགོངས་པ",
+          "notes": "Mind-Guidance Great Arrangement from Luminous Bindu Zhang Zhung Snyan Rgyud"
+        },
+        {
+          "start_page": 591,
+          "title": "象雄耳传传承祈请文",
+          "title_bo": "ཞང་ཞུང་སྙན་རྒྱུད་ཀྱི་བརྒྱུད་པའི་གསོལ་འདེབས",
+          "notes": "Zhang Zhung Snyan Rgyud Lineage Prayer"
+        },
+        {
+          "start_page": 607,
+          "title": "光明明点部",
+          "title_bo": "འོད་གསལ་ཐིག་ལེའི་སྐོར",
+          "notes": "Luminous Bindu Section"
+        },
+        {
+          "start_page": 621,
+          "title": "传承汇编跋文",
+          "title_bo": "རྗེ་བཙུན་ཐེབ་པོ་བརྒྱུད་འདུས་ཀྱི་པར་བྱང",
+          "notes": "Colophon of Venerable Theb-po Lineage Compendium"
+        }
+      ]
+    },
+    {
+      "text_id": "W4CZ332378",
+      "title_zh": "象雄耳传（德格版）",
+      "title_bo": "ཞང་ཞུང་སྙན་རྒྱུད།",
+      "edition": "德格版 (Derge edition)",
+      "source_note": "Derge (Khams) manuscript, dbu med cursive script",
+      "total_pages": 1111,
+      "content_start_page": 5,
+      "sections": [
+        {
+          "start_page": 1,
+          "title": "标题页/书目信息",
+          "title_bo": "ཞང་ཞུང་སྙན་རྒྱུད།",
+          "notes": "TBRC catalog page; title: Zhang Zhung Snyan Rgyud"
+        },
+        {
+          "start_page": 5,
+          "title": "正文起始·普贤礼赞偈",
+          "title_bo": "ༀ༔ ཧྲཱིཿ། སྣ་ཚོགས་ན་ལས་འོད་ཟེར...",
+          "notes": "Opening verse praising Kunzangpo (Samantabhadra), with painted figures"
+        },
+        {
+          "start_page": 50,
+          "title": "灌顶仪轨·修行次第",
+          "title_bo": "",
+          "notes": "Empowerment ritual and practice stages (sampled content)"
+        },
+        {
+          "start_page": 350,
+          "title": "五智教法",
+          "title_bo": "ཡེ་ཤེས་ལྔ",
+          "notes": "Five wisdoms doctrine, Kunzangpo expanse, Vairocana system"
+        },
+        {
+          "start_page": 450,
+          "title": "新篇起始（敬礼偈）·业传承续",
+          "title_bo": "ན་མོ། ལས་བརྒྱུད་པའི་རྒྱུད",
+          "notes": "Likely new text opening with homage formula; karma-lineage tantra"
+        },
+        {
+          "start_page": 650,
+          "title": "大圆满见·法性现前",
+          "title_bo": "ཆོས་ཉིད་མངོན་སུམ",
+          "notes": "Dzogchen view — direct realization of dharmata; Zhang Zhung Snyan Rgyud explicit mention"
+        },
+        {
+          "start_page": 750,
+          "title": "上师瑜伽传承·持明传承释",
+          "title_bo": "བླ་མའི་རྣལ་འབྱོར་གྱི་བརྒྱུད་པ",
+          "notes": "Guru Yoga lineage section; vidyadhara lineage explanation"
+        },
+        {
+          "start_page": 800,
+          "title": "修道·甚深授记",
+          "title_bo": "",
+          "notes": "Practice path and profound prophecy; Bon-nature teachings"
+        },
+        {
+          "start_page": 850,
+          "title": "祈请文·四皈依",
+          "title_bo": "",
+          "notes": "Liturgical supplication: guru blessing, yidam, dakini, dharma protector"
+        },
+        {
+          "start_page": 900,
+          "title": "释说部",
+          "title_bo": "བཤད་པའི་སྐོར",
+          "notes": "Section of explanation (fragment detected)"
+        },
+        {
+          "start_page": 950,
+          "title": "口诀部",
+          "title_bo": "བཀའ་ལུང་གི་སྐོར",
+          "notes": "Section of oral instructions"
+        },
+        {
+          "start_page": 1000,
+          "title": "新篇起始·伏藏教法·灌顶",
+          "title_bo": "ན་མོ་གུ་རུ། གཏེར་ལས་བྱུང་བའི...",
+          "notes": "New text/chapter opening with Namo Guru; terma-derived empowerment; view-meditation-conduct"
+        },
+        {
+          "start_page": 1050,
+          "title": "总目提要/结构纲要",
+          "title_bo": "རིག་པའི་རྒྱུད",
+          "notes": "MAJOR: Catalog/index listing major divisions — Rigpa Tantra (33 chapters), First Rigpa Tantra (21 ch.), Fifty Tantras, Thirty Tantras, Twenty Tantras, Empowerment rituals, Mantra chapter"
+        }
+      ]
+    },
+    {
+      "text_id": "W00EGS1016835",
+      "title_zh": "象雄耳传口授教法文集（乌梅体草书版）",
+      "title_bo": "ཞང་ཞུང་སྙན་རྒྱུད་ཀྱི་གསུང་པོད",
+      "edition": "乌梅体/草书版 (Ume cursive)",
+      "source_note": "Ume cursive manuscript; largest of the three editions",
+      "total_pages": 1508,
+      "content_start_page": 3,
+      "sections": [
+        {
+          "start_page": 1,
+          "title": "标题页/书目信息",
+          "title_bo": "ཞང་ཞུང་སྙན་རྒྱུད་ཀྱི་གསུང་པོད",
+          "notes": "TBRC catalog page"
+        },
+        {
+          "start_page": 3,
+          "title": "轮涅修法成就·大悲传记",
+          "title_bo": "འཁོར་ལོའི་སྒོམ་ཁྲུགས་ཀྱི་གྲུབ་ཐུགས་རྗེ་ཆེན་པོའི་རྣམ་ཐར",
+          "notes": "Title page: Biography of the Great Compassion Adept"
+        },
+        {
+          "start_page": 5,
+          "title": "正文起始·传承教诫心要",
+          "title_bo": "",
+          "notes": "Opening: transmission essentials, oral instruction core, all buddha-fields hub"
+        },
+        {
+          "start_page": 19,
+          "title": "传承世系",
+          "title_bo": "བརྒྱུད་པའི་གདུང་རབས",
+          "notes": "Lineage genealogy section begins"
+        },
+        {
+          "start_page": 103,
+          "title": "耳传法部·化现传承",
+          "title_bo": "",
+          "notes": "First cycle on manifestation lineage (skor las marker)"
+        },
+        {
+          "start_page": 117,
+          "title": "第一品·中观义正释",
+          "title_bo": "ལེའུ་དང་པོ",
+          "notes": "Chapter 1: Correct exposition of Madhyamaka meaning"
+        },
+        {
+          "start_page": 203,
+          "title": "象雄耳传部",
+          "title_bo": "",
+          "notes": "Zhang Zhung Snyan Rgyud section marker"
+        },
+        {
+          "start_page": 271,
+          "title": "自生智慧金刚部",
+          "title_bo": "",
+          "notes": "Cycle of self-arisen wisdom vajra"
+        },
+        {
+          "start_page": 303,
+          "title": "第八品·利他生起",
+          "title_bo": "ལེའུ་བརྒྱད",
+          "notes": "Chapter 8: Teaching on generating benefit for others"
+        },
+        {
+          "start_page": 321,
+          "title": "第四品·三身大悲",
+          "title_bo": "ལེའུ་བཞི་བ",
+          "notes": "Chapter 4 (of different sub-text): Three kayas, compassion"
+        },
+        {
+          "start_page": 406,
+          "title": "第一品终·佛名品",
+          "title_bo": "ལེའུ་དང་པོའོ",
+          "notes": "End of Chapter 1 (buddha-name chapter colophon)"
+        },
+        {
+          "start_page": 407,
+          "title": "国王遗教·空行母窍诀·中阴教法",
+          "title_bo": "",
+          "notes": "New section: King testament, dakini instructions, bardo teachings"
+        },
+        {
+          "start_page": 497,
+          "title": "禅定部",
+          "title_bo": "བསམ་གཏན",
+          "notes": "Meditation (samten) cycle"
+        },
+        {
+          "start_page": 507,
+          "title": "大解脱部",
+          "title_bo": "རིགས་གྲོལ་ཆེན་པོ",
+          "notes": "Cycle of great liberation"
+        },
+        {
+          "start_page": 563,
+          "title": "象雄耳传部第一品",
+          "title_bo": "ལེའུ་བཞུགས་སོ",
+          "notes": "Major section start: first chapter of Zhang Zhung Snyan Rgyud cycle"
+        },
+        {
+          "start_page": 691,
+          "title": "中阴心灯",
+          "title_bo": "བར་དོ་ཐུགས་ཀྱི་སྒྲོན་མ",
+          "notes": "Bardo Lamp of Mind — bardo teachings begin"
+        },
+        {
+          "start_page": 723,
+          "title": "究竟真实智慧·伏藏教法部",
+          "title_bo": "",
+          "notes": "Ultimate authentic wisdom terma cycle"
+        },
+        {
+          "start_page": 759,
+          "title": "住处义品",
+          "title_bo": "གནས་ལུགས་ཀྱི་དོན་བསྟན་པའི་ལེའུ",
+          "notes": "Chapter on the meaning of the natural state"
+        },
+        {
+          "start_page": 806,
+          "title": "第四品终·聚力塔",
+          "title_bo": "ལེའུ་སྟེ་བཞི་པའོ",
+          "notes": "End of Chapter 4: power-gathering stupa"
+        },
+        {
+          "start_page": 939,
+          "title": "圆满终（跋）",
+          "title_bo": "རྫོགས་སོ",
+          "notes": "Explicit completion marker (rdzogs so)"
+        },
+        {
+          "start_page": 978,
+          "title": "四续精要部",
+          "title_bo": "",
+          "notes": "Four tantras condensed essence cycle"
+        },
+        {
+          "start_page": 1011,
+          "title": "身语意传承·象雄耳传部",
+          "title_bo": "",
+          "notes": "Body-speech-mind lineage to Zhang Zhung Snyan Rgyud cycle"
+        },
+        {
+          "start_page": 1113,
+          "title": "象雄耳传续部",
+          "title_bo": "",
+          "notes": "Zhang Zhung Snyan Rgyud continued"
+        },
+        {
+          "start_page": 1353,
+          "title": "口诀要义品",
+          "title_bo": "",
+          "notes": "Chapter showing essential points of oral instructions"
+        },
+        {
+          "start_page": 1508,
+          "title": "末页·皈依本尊",
+          "title_bo": "",
+          "notes": "Final page: refuge and yidam deity teachings"
+        }
+      ]
+    }
+  ],
+  "cross_reference_notes": [
+    "All three editions are versions of the Zhang Zhung Snyan Rgyud (象雄耳传), a Bon Dzogchen transmission cycle.",
+    "W1CZ1000 (662pp) is the most compact; a compendium (གསུང་པོད) with ~21 distinct titled sub-texts.",
+    "W4CZ332378 (1111pp, Derge) includes a structural catalog near p.1050 listing: Rigpa Tantra (33 ch.), First Rigpa Tantra (21 ch.), Fifty/Thirty/Twenty Tantras, Empowerment rituals, Mantra chapter.",
+    "W00EGS1016835 (1508pp, Ume) is the most extensive; contains explicit chapter markers (ལེའུ) and a completion marker (རྫོགས་སོ) at p.939.",
+    "Common structural elements across editions: Guru Yoga, Bardo teachings, Lineage prayers, Dzogchen view exposition, Five Wisdoms, Empowerment rituals.",
+    "OCR quality is poor across all editions due to cursive scripts and aged manuscripts; section boundaries are approximate."
+  ]
+}

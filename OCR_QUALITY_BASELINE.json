@@ -1,0 +1,1389 @@
+{
+  "timestamp": "2026-09-18T22:56:35.191334",
+  "methodology": "Sampled every 20th page. Graded A(Good)/B(Partial)/C(Poor)/D(Failed) based on OCR output.",
+  "texts": {
+    "W1CZ1000": {
+      "description": "Uchen woodblock",
+      "total_pages": 662,
+      "sampled": 34,
+      "A": 1,
+      "B": 19,
+      "C": 7,
+      "D": 7,
+      "comprehensible_pct": 58.8,
+      "samples": [
+        {
+          "page": 1,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 1,
+          "chinese_chars": 14,
+          "excerpt": "中文翻译 象雄耳传口授教法文集"
+        },
+        {
+          "page": 20,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 7,
+          "chinese_chars": 78,
+          "excerpt": "中文翻译 由于原文OCR识别不完整，无法提供准确对应的中文翻译。根据可辨识的零星词汇，推测本页内容涉及佛法教义相关的论述"
+        },
+        {
+          "page": 40,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 75,
+          "excerpt": "中文翻译 由于原始图像文字潦草、分辨率不足，无法进行准确可靠的逐字OCR转录，故无法提供忠实的中文翻译。若能提供更清晰的"
+        },
+        {
+          "page": 60,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 27,
+          "excerpt": "中文翻译 因原文无法完整、准确识别，暂不能提供可靠的翻译内容。"
+        },
+        {
+          "page": 80,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 28,
+          "excerpt": "中文翻译 由于无法准确识别藏文原文，暂无法提供可靠的中文翻译。"
+        },
+        {
+          "page": 100,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 4,
+          "chinese_chars": 75,
+          "excerpt": "中文翻译   此段文字記述了西藏本教香雄涅呼傳承中，某位上師於東方隆卡爾蒙地修行、建寺弘法之事跡，並涉及降伏魔障、傳授教"
+        },
+        {
+          "page": 120,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 6,
+          "chinese_chars": 164,
+          "excerpt": "中文翻译 由于原始图像中的字迹为手写体，且部分文字因年代久远或书写潦草而模糊不清，无法进行准确的逐字转写和翻译。此段文字"
+        },
+        {
+          "page": 140,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 160,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 5,
+          "chinese_chars": 98,
+          "excerpt": "中文翻译 由于原文OCR识别本身存在大量不确定之处，暂无法提供逐句精确翻译。根据大致可辨识的词汇及上下文推测，本页内容涉"
+        },
+        {
+          "page": 180,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 4,
+          "chinese_chars": 78,
+          "excerpt": "中文翻译 由于藏文原文识读不完整、可信度不足，暂无法给出准确对应的中文翻译。仅可大致推测本页内容涉及\"正见\"、\"心性\"、"
+        },
+        {
+          "page": 200,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 220,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 0,
+          "chinese_chars": 70,
+          "excerpt": "中文翻译 由于原文识别不完整，暂无法提供准确的逐句翻译。根据文献背景，此页内容应属于本教象雄耳传教法体系中的仪轨或教诫文"
+        },
+        {
+          "page": 240,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 260,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 5,
+          "chinese_chars": 90,
+          "excerpt": "中文翻译 由于藏文原文识别不完整且存在大量不确定字段，无法提供准确、完整的翻译。可辨识片段大意涉及：  - 力量与究竟成"
+        },
+        {
+          "page": 280,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 4,
+          "chinese_chars": 48,
+          "excerpt": "中文翻译   ……本智之主而生者……礼敬传承教诲……知者知我之智……于境中依传承教法……以密咒修持而分与……于中间之时传"
+        },
+        {
+          "page": 300,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 8,
+          "chinese_chars": 88,
+          "excerpt": "中文翻译   ……最终显现于清净刹土之中，而非落于轮回之境。如是所说传承，乃由阿赤门卓瓦传承而来…… ……当以智慧之智观"
+        },
+        {
+          "page": 320,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 5,
+          "chinese_chars": 72,
+          "excerpt": "中文翻译 由于原文识别不完整，仅能大致推测部分内容涉及： \"法身安乐\" \"以无我智慧得见真实\" \"安住于菩萨行\"等佛教修"
+        },
+        {
+          "page": 340,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 4,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 360,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 11,
+          "chinese_chars": 55,
+          "excerpt": "中文翻译   ……教言传承之意趣。解脱道之明点、光明…… 智慧、大悲……消除一切障碍…… ……解脱之相、续部之义、明觉之"
+        },
+        {
+          "page": 380,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 8,
+          "chinese_chars": 39,
+          "excerpt": "中文翻译   ……此为传承自东方之教法…… ……苯教之……象雄耳传…… ……上师传承之名讳……持明者…… ……口诀教授…"
+        },
+        {
+          "page": 400,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 5,
+          "chinese_chars": 92,
+          "excerpt": "中文翻译 由于原文多处字迹模糊、连笔严重，仅能大致判断其内容属佛教教理性文字，涉及\"智慧\"\"大悲\"\"菩萨\"\"上师本尊\"等"
+        },
+        {
+          "page": 420,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 0,
+          "chinese_chars": 79,
+          "excerpt": "中文翻译 由于原文识别存在较大不确定性，暂无法提供准确、逐句对应的中文翻译，仅能大致判断此页内容属于藏传佛教象雄耳传法系"
+        },
+        {
+          "page": 440,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 460,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 6,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 480,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 6,
+          "chinese_chars": 66,
+          "excerpt": "中文翻译 此后，古汝仁波切传授了称为\"阿耶旺秋·善益他人\"的灌顶。象雄明点、本觉自现续、俱生智慧续、正圆满续等诸多续部教"
+        },
+        {
+          "page": 500,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 4,
+          "chinese_chars": 32,
+          "excerpt": "中文翻译   顶礼上师。此乃象雄耳传之教法， 出自智慧宝藏， 显现本觉自性之教言……"
+        },
+        {
+          "page": 520,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 6,
+          "chinese_chars": 87,
+          "excerpt": "中文翻译 由于原文识别不完整，翻译仅能基于可辨识片段进行推测性解读：  \"……由之加持力所遣……属于续部之部分……上师之"
+        },
+        {
+          "page": 540,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 3,
+          "chinese_chars": 85,
+          "excerpt": "中文翻译 由于原文OCR无法完整准确识别，暂时无法提供逐句对应的完整中文翻译。根据可辨识的关键词判断，本页内容涉及心性、"
+        },
+        {
+          "page": 560,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 4,
+          "chinese_chars": 108,
+          "excerpt": "中文翻译 由于藏文原文本身多处字迹不清，无法确定完整准确的内容，故难以进行逐句翻译。根据可辨识的零星词汇推测，本页内容可"
+        },
+        {
+          "page": 580,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 12,
+          "chinese_chars": 36,
+          "excerpt": "中文翻译   ……广大……传承教法……上师所示……心识任运显现……大乐……本觉……精要……悲心……上师……法性……他空…"
+        },
+        {
+          "page": 600,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 7,
+          "chinese_chars": 111,
+          "excerpt": "中文翻译 由于原文图像清晰度有限，木刻体字迹细节难以完全辨识，无法提供准确、完整的翻译。以下仅为大致内容推测：  此页内"
+        },
+        {
+          "page": 620,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 640,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 5,
+          "chinese_chars": 36,
+          "excerpt": "中文翻译 顶礼具德上师足下， 以大悲心之加持力， 为使初学具善缘者， 详加讲说于此义理。"
+        },
+        {
+          "page": 660,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 9,
+          "chinese_chars": 28,
+          "excerpt": "中文翻译 教法传承中关于上师、教言及大圆满修持相关的开示段落。）"
+        }
+      ]
+    },
+    "W4CZ332378": {
+      "description": "Derge cursive",
+      "total_pages": 1111,
+      "sampled": 56,
+      "A": 10,
+      "B": 27,
+      "C": 11,
+      "D": 8,
+      "comprehensible_pct": 66.1,
+      "samples": [
+        {
+          "page": 1,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 1,
+          "chinese_chars": 8,
+          "excerpt": "中文翻译 象雄耳传"
+        },
+        {
+          "page": 20,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 40,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 26,
+          "excerpt": "中文翻译 由于原文OCR无法完整可靠地识别，暂无法提供准确翻译。"
+        },
+        {
+          "page": 60,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 10,
+          "chinese_chars": 52,
+          "excerpt": "中文翻译   ……上师及空行母之教敕传承…… 象雄耳传之续部……此续部之义理…… 教法之心要……教诫与口诀…… 密咒金刚"
+        },
+        {
+          "page": 80,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 7,
+          "chinese_chars": 32,
+          "excerpt": "中文翻译  \"所谓……者，是指智慧之…… 以其体性而言，其理由为…… 如是，即称为真实之智慧……\""
+        },
+        {
+          "page": 100,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 120,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 6,
+          "chinese_chars": 48,
+          "excerpt": "中文翻译 由于原文识读存在较大不确定性，翻译仅供参考：  \"啊！所谓乃胜者之教敕，于尊前所宣示，为根本续部，如宝珠般……"
+        },
+        {
+          "page": 140,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 160,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 9,
+          "chinese_chars": 50,
+          "excerpt": "中文翻译   嗡，敬礼！ 向象雄耳传之诸位上师顶礼。 本初怙主普贤如来， 以及觉性杜鹃鸟等诸位上师， 祈请以慈悲加持融入"
+        },
+        {
+          "page": 180,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 14,
+          "chinese_chars": 107,
+          "excerpt": "中文翻译 由于藏文原文识读不完整、多处字迹模糊难辨，暂无法提供准确、连贯的中文译文。根据可辨识的片段推测，本页内容可能涉"
+        },
+        {
+          "page": 200,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 22,
+          "excerpt": "中文翻译 由于原文OCR识别度不足，暂无法提供准确翻译"
+        },
+        {
+          "page": 220,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 7,
+          "chinese_chars": 85,
+          "excerpt": "中文翻译   此段文字似为苯教\"象雄耳传\"系统中的传承祈请文或修法引导文，内容可能涉及： - 对上师、本尊的祈请 - 关"
+        },
+        {
+          "page": 240,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 260,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 5,
+          "chinese_chars": 77,
+          "excerpt": "中文翻译 由于原文字迹潦草且部分模糊不清，无法完整准确释读，故难以给出完整可靠的翻译。根据可辨识的片段推测，内容可能涉及"
+        },
+        {
+          "page": 280,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 300,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 5,
+          "chinese_chars": 73,
+          "excerpt": "中文翻译 由于原文OCR识别度过低，无法进行准确、完整的翻译。仅可推测文中涉及\"传承\"、\"上师\"、\"心性\"、\"智慧\"、\""
+        },
+        {
+          "page": 320,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 8,
+          "chinese_chars": 79,
+          "excerpt": "中文翻译   顶礼上师、本尊及诸圣众。  关于象雄耳传口诀之部分：此甚深教授乃由历代传承上师所传，安住于心之究竟智慧、般"
+        },
+        {
+          "page": 340,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 7,
+          "chinese_chars": 89,
+          "excerpt": "中文翻译 由于原文字迹为高度连笔的手写体，且图像清晰度有限，无法确定完整、准确的原文内容，因此无法提供可靠的逐句翻译。以"
+        },
+        {
+          "page": 360,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 16,
+          "chinese_chars": 76,
+          "excerpt": "中文翻译 以慈悲利益众生之故， 为成就佛陀教法， 依上师之加持， 为断除邪见， 显密咒甚深之义， 般若波罗蜜多之密意， "
+        },
+        {
+          "page": 380,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 3,
+          "chinese_chars": 22,
+          "excerpt": "中文翻译  \"唵！顶礼上师、本尊、空行、护法及一切护教神众……\""
+        },
+        {
+          "page": 400,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 5,
+          "chinese_chars": 33,
+          "excerpt": "中文翻译 因原文无法完整、可靠地释读，故暂不提供翻译，以避免造成误导性内容。"
+        },
+        {
+          "page": 420,
+          "grade": "A",
+          "content_type": "narrative",
+          "tibetan_syllables": 28,
+          "chinese_chars": 110,
+          "excerpt": "中文翻译 由于原文字迹为草体连写,难以完整准确释读,故仅能大致推知本页内容涉及\"传承\"、\"口传\"、\"讲说\"等词汇,应为记"
+        },
+        {
+          "page": 440,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 3,
+          "chinese_chars": 98,
+          "excerpt": "中文翻译 由于原文本身OCR识别存在较大不确定性，无法保证转写的准确性，故暂不提供逐字对应的中文翻译，仅可大致判断此页内"
+        },
+        {
+          "page": 460,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 480,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 0,
+          "chinese_chars": 115,
+          "excerpt": "中文翻译 因原文无法完整、准确释读，故暂无法提供可靠的逐句翻译。根据版式与常见文献类型判断，此页应属于苯教\"象雄耳传\"系"
+        },
+        {
+          "page": 500,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 10,
+          "chinese_chars": 103,
+          "excerpt": "中文翻译 由于原文字迹草体连笔严重、部分朱砂字迹模糊不清，难以逐字准确释读，故无法提供可靠的逐句翻译。根据可辨识的零星词"
+        },
+        {
+          "page": 520,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 13,
+          "chinese_chars": 53,
+          "excerpt": "中文翻译 由于原文本身释读困难，翻译仅能提供大致方向性的推测：  ……象雄……传承之…… ……上师之……加持…… ……了"
+        },
+        {
+          "page": 540,
+          "grade": "A",
+          "content_type": "narrative",
+          "tibetan_syllables": 13,
+          "chinese_chars": 67,
+          "excerpt": "中文翻译 由于原文释读本身存在很大不确定性，此处仅能给出大致内容方向的推测性翻译：  ……教法传承……续部……法本…… "
+        },
+        {
+          "page": 560,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 0,
+          "chinese_chars": 112,
+          "excerpt": "中文翻译 由于原文OCR识别置信度较低，无法提供准确、负责任的完整翻译。从可辨识的零星词汇推测，本页内容涉及：  - 上"
+        },
+        {
+          "page": 580,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 5,
+          "chinese_chars": 69,
+          "excerpt": "中文翻译   此页内容涉及上师传记、象雄耳传教法传承相关记述，可能包含有关本尊、法身、大圆满见地及密咒修持等方面的论述。"
+        },
+        {
+          "page": 600,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 5,
+          "chinese_chars": 83,
+          "excerpt": "中文翻译 由于原文识读存在较大不确定性，暂无法提供准确、完整的翻译。文本内容似与传承、灌顶、上师教法相关，属于藏传佛教苯"
+        },
+        {
+          "page": 620,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 25,
+          "excerpt": "中文翻译 因原文无法准确识别，故无法提供可靠的翻译内容。"
+        },
+        {
+          "page": 640,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 660,
+          "grade": "A",
+          "content_type": "narrative",
+          "tibetan_syllables": 30,
+          "chinese_chars": 190,
+          "excerpt": "中文翻译 传承文献常见格式的意译，因原文字迹模糊，翻译仅供参考）：  如是所说：从此教诫之传承法脉中，产生智慧禅定之传承"
+        },
+        {
+          "page": 680,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 4,
+          "chinese_chars": 23,
+          "excerpt": "中文翻译 由于原文无法准确释读，暂无法提供可靠翻译。"
+        },
+        {
+          "page": 700,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 0,
+          "chinese_chars": 53,
+          "excerpt": "中文翻译 由于原文OCR识别存在较大不确定性，无法提供准确可靠的翻译。建议参考高分辨率原件或专业藏学文献数据库进行核实。"
+        },
+        {
+          "page": 720,
+          "grade": "B",
+          "content_type": "catalog",
+          "tibetan_syllables": 6,
+          "chinese_chars": 81,
+          "excerpt": "中文翻译 由于原文识读存在较大不确定性，暂无法提供准确对应的中文翻译。若需大致内容方向，此类文本通常涉及佛教教义阐释、修"
+        },
+        {
+          "page": 740,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 11,
+          "chinese_chars": 95,
+          "excerpt": "中文翻译 由于原文识别不完整、字迹草写难以确认，暂无法提供准确对应的完整中文翻译。根据格式判断，此页内容可能为苯教《象雄"
+        },
+        {
+          "page": 760,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 6,
+          "chinese_chars": 35,
+          "excerpt": "中文翻译 顶礼！ 诸胜者聚集之珍宝续部，其义摘要， 明晰宣说之第一品。 尔时世尊复告言： ……"
+        },
+        {
+          "page": 780,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 11,
+          "chinese_chars": 86,
+          "excerpt": "中文翻译 由于原文无法完整准确释读,故暂无法提供逐句翻译。就整体文书性质而言,此页应属于象雄耳传传承文献中关于教法传承、"
+        },
+        {
+          "page": 800,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 6,
+          "chinese_chars": 50,
+          "excerpt": "中文翻译   ……此传承之教法，依师承而正确修习…… ……象雄耳传之甚深法门…… ……安住于本性真实之义…… ……依赖上"
+        },
+        {
+          "page": 820,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 7,
+          "chinese_chars": 81,
+          "excerpt": "中文翻译 由于原文本身无法完整准确识读，暂无法提供逐句翻译。根据可辨认的关键词判断，内容应与上师传承、佛法教诫、菩提修行"
+        },
+        {
+          "page": 840,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 9,
+          "chinese_chars": 69,
+          "excerpt": "中文翻译 ……以及安住于净土之中，此外亦由种种安立而生…… ……以慈悲摄受，赐予觉性之力灌顶…… ……以身语意之加持，令"
+        },
+        {
+          "page": 860,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 28,
+          "excerpt": "中文翻译 因原文无法完整准确释读,故暂无法提供可靠的逐句翻译。"
+        },
+        {
+          "page": 880,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 7,
+          "chinese_chars": 90,
+          "excerpt": "中文翻译 由于原文字迹潦草、部分墨迹褪色且掺杂朱笔校注,现有转录并不完整可靠,无法给出准确的逐字翻译。大致内容涉及佛教/"
+        },
+        {
+          "page": 900,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 5,
+          "chinese_chars": 89,
+          "excerpt": "中文翻译 由于原文识读存在较大不确定性，无法提供准确对应的中文翻译。根据文献性质推测，内容应属于苯教象雄耳传相关教法开示"
+        },
+        {
+          "page": 920,
+          "grade": "A",
+          "content_type": "narrative",
+          "tibetan_syllables": 21,
+          "chinese_chars": 137,
+          "excerpt": "中文翻译 如是所说：关于续部之分支、上师教言中所出者，何人修行、何人受持；瑜伽士具悲心自性者，为何等人，其历史因缘之方向"
+        },
+        {
+          "page": 940,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 0,
+          "chinese_chars": 98,
+          "excerpt": "中文翻译 由于原文无法完整准确释读，暂无法提供逐句翻译。整体内容应属苯教《象雄耳传》系统之修法或传承记述文本，可能涉及师"
+        },
+        {
+          "page": 960,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 1,
+          "chinese_chars": 17,
+          "excerpt": "中文翻译 从此处起，出自三种传承之教法。"
+        },
+        {
+          "page": 980,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 19,
+          "chinese_chars": 138,
+          "excerpt": "中文翻译 由于原文字迹为草书连笔手写体,且多处笔画模糊难辨,无法确保逐字准确释读,故仅能给出大致内容方向的推测性理解: "
+        },
+        {
+          "page": 1000,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 17,
+          "chinese_chars": 132,
+          "excerpt": "中文翻译   顶礼上师！ 此乃教法智慧广大之教敕， 由伏藏中显现之传承教诫，明晰而深奥。 真实苯法之精要，普贤之明示， "
+        },
+        {
+          "page": 1020,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 10,
+          "chinese_chars": 12,
+          "excerpt": "中文翻译 传承文献的一部分。）"
+        },
+        {
+          "page": 1040,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 11,
+          "chinese_chars": 115,
+          "excerpt": "中文翻译   ……具足明了之神通智慧，为利众生故顶礼敬拜。 ……愿上师之加持融入自心。随所调伏众生之根机，示现种种色身。"
+        },
+        {
+          "page": 1060,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 24,
+          "chinese_chars": 172,
+          "excerpt": "中文翻译   此段大意为：说，虚空变化亦复如是，依教法之语，功德平等安住。此义即是说：从业而言,亦是成就根之业,乃智者论"
+        },
+        {
+          "page": 1080,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 6,
+          "chinese_chars": 50,
+          "excerpt": "中文翻译   ……于真实义中…… ……依上师之恩德…… ……当了知觉性之本来面目…… ……以身语意之加持…… ……令智慧"
+        },
+        {
+          "page": 1100,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 0,
+          "chinese_chars": 32,
+          "excerpt": "中文翻译 因原文无法确证逐字OCR结果，故暂不提供逐句翻译，以免产生错误信息。"
+        }
+      ]
+    },
+    "W00EGS1016835": {
+      "description": "Ume mixed",
+      "total_pages": 1508,
+      "sampled": 76,
+      "A": 29,
+      "B": 32,
+      "C": 9,
+      "D": 6,
+      "comprehensible_pct": 80.3,
+      "samples": [
+        {
+          "page": 1,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 1,
+          "chinese_chars": 11,
+          "excerpt": "中文翻译 象雄耳传口授集"
+        },
+        {
+          "page": 20,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 5,
+          "chinese_chars": 54,
+          "excerpt": "中文翻译   由于原文字迹模糊、手写体潦草且部分内容因拍摄角度和纸张老化难以辨认，以上仅为大意性尝试翻译，非逐字精确对应"
+        },
+        {
+          "page": 40,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 29,
+          "chinese_chars": 238,
+          "excerpt": "中文翻译   由父所成就者，此父亦被视为守护之依处。为守护而作，凭借对亡者相关之依止而生守护。依循传承之诵念祈请文，由父"
+        },
+        {
+          "page": 60,
+          "grade": "A",
+          "content_type": "narrative",
+          "tibetan_syllables": 14,
+          "chinese_chars": 149,
+          "excerpt": "中文翻译 由于原文字迹为手写体连笔，且部分字词漫漶不清，难以进行完全准确的逐字识读，故此处翻译仅能提供大致方向性说明： "
+        },
+        {
+          "page": 80,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 8,
+          "chinese_chars": 126,
+          "excerpt": "中文翻译 由于原文字迹漫漶不清，无法完整、准确地进行逐字翻译。仅能大致推断此页内容涉及：  对本尊佛身、语、意功德的赞颂"
+        },
+        {
+          "page": 100,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 8,
+          "chinese_chars": 61,
+          "excerpt": "中文翻译   明光禅定之要义， 为利众生慈悲观照。 彼之本性自然者， 本初实相现前时。 般若波罗蜜多义， 方便智慧双运故"
+        },
+        {
+          "page": 120,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 8,
+          "chinese_chars": 77,
+          "excerpt": "中文翻译 由于生起坚固的信心与恭敬，蒙上师的悲心加被，指引传承法脉之道，使有缘之人得以进入殊胜之善缘。由此，克服了障碍与"
+        },
+        {
+          "page": 140,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 0,
+          "chinese_chars": 68,
+          "excerpt": "中文翻译   本页内容涉及雍仲苯教象雄耳传传承中的教法传授、上师加持、本尊修持等相关论述，属于该传承典籍的正文部分，具体"
+        },
+        {
+          "page": 160,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 12,
+          "chinese_chars": 65,
+          "excerpt": "中文翻译   愿于自性刹土中， 生起相顺之力， 忏悔一切罪障。 以大悲之力，祈请加持， 使身语意三门悉皆清净，得蒙加持。"
+        },
+        {
+          "page": 180,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 0,
+          "chinese_chars": 31,
+          "excerpt": "中文翻译 由于原文识别存在较大不确定性,无法提供准确可靠的翻译内容。"
+        },
+        {
+          "page": 200,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 6,
+          "chinese_chars": 35,
+          "excerpt": "中文翻译   ……授予灌顶及口传…… ……禅定之…… ……瑜伽之道…… ……上师之加持…… ……本尊修法…… ……一切障"
+        },
+        {
+          "page": 220,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 6,
+          "chinese_chars": 131,
+          "excerpt": "中文翻译 由于藏文原文本身识读困难，无法保证逐句准确对应，现依据大意尝试意译：  此为传承教法之口诀要义，阐明无二本觉之"
+        },
+        {
+          "page": 240,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 6,
+          "chinese_chars": 55,
+          "excerpt": "中文翻译   大意涉及佛法修行中心要之教诫，讲述持明者对佛法真谛的领悟与阐释，强调依止善说与智慧的重要性，最终导向解脱之"
+        },
+        {
+          "page": 260,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 15,
+          "chinese_chars": 146,
+          "excerpt": "中文翻译 如上所说：观见殊胜言音之心不染著。木材及各种行道，最终结果生起违逆之相。摄持而修行殊胜之道，路上行走前进。道路"
+        },
+        {
+          "page": 280,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 15,
+          "chinese_chars": 139,
+          "excerpt": "中文翻译 无边行为中觉性之确然， 无传承之本智藏， 安住于无动摇之境。 从顶严无尽功德所住之中， 无有反转之状态无有伴侣"
+        },
+        {
+          "page": 300,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 4,
+          "chinese_chars": 51,
+          "excerpt": "中文翻译   依禅定之力，能使时机成熟；因无有边际之障蔽，故得见其体性；于修持相状之道中，现前趣入；心之自性，即显现为法"
+        },
+        {
+          "page": 320,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 5,
+          "chinese_chars": 142,
+          "excerpt": "中文翻译 由于原图文字模糊、字迹连写且部分残损，无法逐字准确释读及完整翻译。大致内容涉及： - 关于灌顶与非灌顶之区别的"
+        },
+        {
+          "page": 340,
+          "grade": "A",
+          "content_type": "narrative",
+          "tibetan_syllables": 26,
+          "chinese_chars": 138,
+          "excerpt": "中文翻译 由于原文本身多为象雄耳传密续中特有的密咒式、象征性表达，且原图字迹模糊，无法保证逐字精准，故此处仅作大意性释读"
+        },
+        {
+          "page": 360,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 24,
+          "chinese_chars": 125,
+          "excerpt": "中文翻译   此段落大意描述获得安乐等法之自在，说明清净觉性本自明澈，超越戏论；圣者行持之道亦复如是。如是传承延续不断，"
+        },
+        {
+          "page": 380,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 1,
+          "chinese_chars": 23,
+          "excerpt": "中文翻译 由于原文无法准确识别，暂不能提供可靠翻译。"
+        },
+        {
+          "page": 400,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 5,
+          "chinese_chars": 114,
+          "excerpt": "中文翻译 由于原始藏文文本模糊不清、连笔难辨，无法提供准确可靠的完整翻译。以上OCR内容本身存疑，若强行翻译恐失原意甚至"
+        },
+        {
+          "page": 420,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 22,
+          "chinese_chars": 173,
+          "excerpt": "中文翻译 由于原文手写潦草、字迹模糊不清，无法确定准确的完整句意，仅能大致推测涉及以下内容：  此段落似描述某位上师行持"
+        },
+        {
+          "page": 440,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 5,
+          "chinese_chars": 62,
+          "excerpt": "中文翻译   安住于大乐之道。再者，据说灌顶等仪轨已完成传授。此乃开示灌顶、续部及讲说之道。 于此道中，菩萨之法性得以显"
+        },
+        {
+          "page": 460,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 480,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 0,
+          "chinese_chars": 87,
+          "excerpt": "中文翻译 由于原文OCR识别置信度较低，无法提供准确可靠的逐句翻译。根据版式与传承背景推测，此页内容应属于象雄耳传法本中"
+        },
+        {
+          "page": 500,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 29,
+          "chinese_chars": 150,
+          "excerpt": "中文翻译 由于原文字迹模糊、部分字符难以确认，且此类文献涉及大量藏传佛教/苯教密续专有名词及仪轨术语，在未能确定准确藏文"
+        },
+        {
+          "page": 520,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 8,
+          "chinese_chars": 84,
+          "excerpt": "中文翻译   如同中间的所观境般前行， 第三阶段是究竟证得自在而修习。 观察五门收摄，成就十种自在， 将转为清净圆满之境"
+        },
+        {
+          "page": 540,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 5,
+          "chinese_chars": 102,
+          "excerpt": "中文翻译 由于原文为草体藏文手稿，字迹模糊、连笔较多，且部分内容涉及苯教象雄传承专有名词及口诀性表述，无法在现有条件下给"
+        },
+        {
+          "page": 560,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 10,
+          "chinese_chars": 125,
+          "excerpt": "中文翻译   关于此页所述之内容： 凡以此法而能通达智慧之显现者，谓之安住； 使心与觉性相应而知之， 安住于心之安乐者，"
+        },
+        {
+          "page": 580,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 4,
+          "chinese_chars": 108,
+          "excerpt": "中文翻译 由于原文字迹辨识困难，无法提供准确完整的翻译。根据可辨识的部分片段，大致涉及以下内容：  关于\"所见\"\"所观\""
+        },
+        {
+          "page": 600,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 27,
+          "chinese_chars": 178,
+          "excerpt": "中文翻译 由于本页手写体连笔较多、图片清晰度有限，无法进行完全准确的逐字翻译。大致内容涉及：  修行成就的教法阐述；关于"
+        },
+        {
+          "page": 620,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 7,
+          "chinese_chars": 64,
+          "excerpt": "中文翻译   ……依此教法而住，遵循法脉正统传承，…… 无有障碍。如是蒙允许后，…… 就住处及相关教诫等请示，聆听论典传"
+        },
+        {
+          "page": 640,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 3,
+          "chinese_chars": 89,
+          "excerpt": "中文翻译 由于原文识读存在较大不确定性，暂无法提供逐句准确翻译。就可辨识部分推测，此段内容涉及忏悔、供养及祈请等法义表述"
+        },
+        {
+          "page": 660,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 3,
+          "chinese_chars": 102,
+          "excerpt": "中文翻译 由于原文OCR释读不完整、不确定，暂无法提供准确、完整的中文翻译。文本内容应属于苯教《象雄耳传》系统中的教法开"
+        },
+        {
+          "page": 680,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 3,
+          "chinese_chars": 39,
+          "excerpt": "中文翻译 在此其中之义为：以中道之义而修持成就。此后前往甘露药师佛之刹土，宣说真实之道。"
+        },
+        {
+          "page": 700,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 4,
+          "chinese_chars": 83,
+          "excerpt": "中文翻译 由于原文识读困难，无法提供准确对应的完整翻译。根据可辨识的片段推测，此段落可能涉及本教象雄耳传法脉中关于修行次"
+        },
+        {
+          "page": 720,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 4,
+          "chinese_chars": 53,
+          "excerpt": "中文翻译   ……四种本性亦归摄于此，究竟精华之义…… ……本初业障已尽，究竟精华之义…… ……由传承之身所生，真实精华"
+        },
+        {
+          "page": 740,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 26,
+          "chinese_chars": 120,
+          "excerpt": "中文翻译 由于原文字迹较为模糊且许多字符组合不符合标准藏文拼写规则，准确的逐字翻译存在很大困难。  大意推测：本页内容涉"
+        },
+        {
+          "page": 760,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 31,
+          "chinese_chars": 179,
+          "excerpt": "中文翻译   依此把握而修成。心与心性本无分别，坚固智慧而修行。心之本性、诸法自性，心与心性之关联，不因外境所动，亦无障"
+        },
+        {
+          "page": 780,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 8,
+          "chinese_chars": 58,
+          "excerpt": "中文翻译 菩提殊胜心， 于生死轮回之誓言中， 愿彼获得此份缘分。 中阴等诸相，当如是了知…… 以清净身语意之加持力， 愿"
+        },
+        {
+          "page": 800,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 25,
+          "chinese_chars": 228,
+          "excerpt": "中文翻译   此乃解脱怙主之意旨。因自性中本无所证之了悟，故成就功德。金刚界中令心识趋于一味， 凡入定者，安住于功德力量"
+        },
+        {
+          "page": 820,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 12,
+          "chinese_chars": 84,
+          "excerpt": "中文翻译   大续部之加持法门，此为修持仪轨之教诫。 口耳传承教法，圆满修法仪轨，教诫要义所在。 执持意乐所诠，观修转化"
+        },
+        {
+          "page": 840,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 7,
+          "chinese_chars": 76,
+          "excerpt": "中文翻译 如是应当了知，如实。 因假立之名而说，遂成言说。 如何假立之事物本性， 若如是了知， 则知其自性本空，唯依名言"
+        },
+        {
+          "page": 860,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 24,
+          "excerpt": "中文翻译 由于无法准确识别原文，暂无法提供可靠的翻译。"
+        },
+        {
+          "page": 880,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 5,
+          "chinese_chars": 85,
+          "excerpt": "中文翻译   ……于此明观修持之持明差别…… ……与空性相融之觉性…… ……菩萨之行持…… ……智慧之修习…… ……清净"
+        },
+        {
+          "page": 900,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 25,
+          "chinese_chars": 212,
+          "excerpt": "中文翻译   为使人了知教诫之真义，当如是理解此中所说。此外，亦当阐明一要义之内容。愿善妙之心遍及一切功德；八部魔众之刹"
+        },
+        {
+          "page": 920,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 940,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 960,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 6,
+          "chinese_chars": 78,
+          "excerpt": "中文翻译   大意涉及：灌顶手印之修持要诀，说明灌顶本身若无智慧证悟则无实义，行为若不如实了知亦难成就，本觉智慧若未圆熟"
+        },
+        {
+          "page": 980,
+          "grade": "B",
+          "content_type": "prayer",
+          "tibetan_syllables": 4,
+          "chinese_chars": 79,
+          "excerpt": "中文翻译 由于文字模糊难以准确辨识，暂无法提供可靠翻译。根据可辨认的零散词汇推测，此页内容涉及佛法教义相关的祈愿或赞颂文"
+        },
+        {
+          "page": 1000,
+          "grade": "B",
+          "content_type": "catalog",
+          "tibetan_syllables": 8,
+          "chinese_chars": 96,
+          "excerpt": "中文翻译 关于殊胜教法之传承部分： 从《幻化网续》中所出之要义摘录。 依密咒旧派之解说方式， 阐明智慧幻化之义理。 在开"
+        },
+        {
+          "page": 1020,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 26,
+          "chinese_chars": 193,
+          "excerpt": "中文翻译 本教续部教义:导师亦为心之真义,虚空一如无有变异,中道边际之真义, 本源之状态,如是界限本性中,义理如虚空法而"
+        },
+        {
+          "page": 1040,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 13,
+          "chinese_chars": 144,
+          "excerpt": "中文翻译 传承之教法记述，内容涉及历代上师之心传传授脉络，及其修行证悟之描述。因原文辨识困难，具体语句含义暂难精确对应，"
+        },
+        {
+          "page": 1060,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 1080,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 18,
+          "chinese_chars": 114,
+          "excerpt": "中文翻译 文中论述比丘应随顺修行，如同法水普润；说明水灌顶之法义，谓能洗涤诸垢染；又说修法如水般清净，供养之法亦复如是；"
+        },
+        {
+          "page": 1100,
+          "grade": "A",
+          "content_type": "philosophy",
+          "tibetan_syllables": 17,
+          "chinese_chars": 120,
+          "excerpt": "中文翻译 由于原文存在多处字迹漫漶、无法完全确认之处，此处无法提供逐字准确翻译。  从可辨识片段推测，内容涉及： - 关"
+        },
+        {
+          "page": 1120,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 6,
+          "chinese_chars": 86,
+          "excerpt": "中文翻译 由于文字辨识度有限，无法提供完整准确的翻译。大意涉及： - 关于降伏魔障、法性显现的教法 - 智慧身与本觉境界"
+        },
+        {
+          "page": 1140,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 13,
+          "chinese_chars": 111,
+          "excerpt": "中文翻译   在此教法时期，于暂时安住之教诫处， 愿护地祇成就本心。化身之众生非虚妄， 成就上师加持之力，于象雄此地专注"
+        },
+        {
+          "page": 1160,
+          "grade": "B",
+          "content_type": "narrative",
+          "tibetan_syllables": 9,
+          "chinese_chars": 68,
+          "excerpt": "中文翻译   大意涉及：关于心性本质、上师与弟子关系、修行境界的论述，属于象雄耳传传承中关于心性教法的段落。  具体内容"
+        },
+        {
+          "page": 1180,
+          "grade": "B",
+          "content_type": "ritual",
+          "tibetan_syllables": 8,
+          "chinese_chars": 94,
+          "excerpt": "中文翻译 由于原文本身难以完整辨识，翻译仅能依据可辨识的宗教术语作大致推测：  此页内容似与三昧耶、智慧本智、火供仪轨等"
+        },
+        {
+          "page": 1200,
+          "grade": "A",
+          "content_type": "philosophy",
+          "tibetan_syllables": 16,
+          "chinese_chars": 131,
+          "excerpt": "中文翻译 ：  无有悔恨，欢喜依止修行佛法之行。心念转变，依信心而住之依处。 悲心坚固转变之量，为利众生亦生广大之心。悲"
+        },
+        {
+          "page": 1220,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 22,
+          "chinese_chars": 134,
+          "excerpt": "中文翻译 由于原文手写体极为潦草、部分字迹漫漶不清，且属藏文密续专门术语，难以在不确定原文准确性的情况下提供可靠翻译。初"
+        },
+        {
+          "page": 1240,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 12,
+          "chinese_chars": 117,
+          "excerpt": "中文翻译 顶礼众多胜利之王女之经文相关内容。传承文字之分类如下： 传承——将传承延续至我之极限，令续流不衰而传承并修持。"
+        },
+        {
+          "page": 1260,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 21,
+          "chinese_chars": 166,
+          "excerpt": "中文翻译 由于原文字迹较为模糊、且属专业密宗术语，精确逐句翻译存在较大困难。大致内容涉及教法传承、修行次第、以及师徒传授"
+        },
+        {
+          "page": 1280,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 24,
+          "chinese_chars": 184,
+          "excerpt": "中文翻译 此段文字因手写体潦草、图片清晰度较低，部分字词难以准确辨识，故翻译存在较大不确定性。大致内容涉及：  关于住处"
+        },
+        {
+          "page": 1300,
+          "grade": "B",
+          "content_type": "philosophy",
+          "tibetan_syllables": 6,
+          "chinese_chars": 48,
+          "excerpt": "中文翻译   关于十方与四方之义：因此十方之四方亦即此。此乃某一挥动之时刻。此挥动之词句 乃教诫之义。此为其住处……"
+        },
+        {
+          "page": 1320,
+          "grade": "A",
+          "content_type": "ritual",
+          "tibetan_syllables": 21,
+          "chinese_chars": 181,
+          "excerpt": "中文翻译   真实成就。总而言之，解脱之道， 是究竟成就所依之境。将方便与智慧双运观修后， 若能实际修持，则次第终将成就"
+        },
+        {
+          "page": 1340,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 5,
+          "chinese_chars": 42,
+          "excerpt": "中文翻译 非时中不虚耗， 非悔悟中不造作， 于智慧所生功德无量之教法， 愿永不退转。 发愿趋向菩提之心。"
+        },
+        {
+          "page": 1360,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 25,
+          "chinese_chars": 231,
+          "excerpt": "中文翻译 此外别无其他，此乃修行所得之心要。凡是之界限，无论是眼识之边际，或意识之边际，乃至生起之边际——皆应观照心意之"
+        },
+        {
+          "page": 1380,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 5,
+          "chinese_chars": 40,
+          "excerpt": "中文翻译 凭借至尊上师的恩德， 使我无明痴暗得以消除。 依止闻思修行之道， 生起信心与清净之心。"
+        },
+        {
+          "page": 1400,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 25,
+          "chinese_chars": 183,
+          "excerpt": "中文翻译   需要修习……皈依与菩提心等，观修界之次第需调正。当得殊胜持明成就圆满善妙者。 需要修习。善加成办利益之事。"
+        },
+        {
+          "page": 1420,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 9,
+          "chinese_chars": 81,
+          "excerpt": "中文翻译 由于原文本身多处模糊、涂改、字形难以辨识，无法进行准确、完整的翻译。所展示内容大致涉及藏传佛教苯教\"象雄耳传\""
+        },
+        {
+          "page": 1440,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 27,
+          "chinese_chars": 227,
+          "excerpt": "中文翻译   顶礼！这是明觉智慧之教法。依此修习者，当明觉生起之时，应如实了知明空不二之义。若能证悟明觉之成就，见到明空"
+        },
+        {
+          "page": 1460,
+          "grade": "C",
+          "content_type": null,
+          "tibetan_syllables": 10,
+          "chinese_chars": 72,
+          "excerpt": "中文翻译 这是我所说教法的精髓所在。如是宣说。  所谓此者，即是大悲之事业也。  尔时，世尊开示曰： \"舍利子，一切众生"
+        },
+        {
+          "page": 1480,
+          "grade": "D",
+          "content_type": null,
+          "tibetan_syllables": 0,
+          "chinese_chars": 4,
+          "excerpt": "中文翻译"
+        },
+        {
+          "page": 1500,
+          "grade": "A",
+          "content_type": "prayer",
+          "tibetan_syllables": 34,
+          "chinese_chars": 208,
+          "excerpt": "中文翻译   如同法身一般再次宣说：安住于圆满诸法之所依处的教言。譬如：以身束缚而安立，安立身形之所依。人亦依止于执着，"
+        }
+      ]
+    }
+  },
+  "overall": {
+    "total_sampled": 166,
+    "comprehensible_AB": 118,
+    "incomprehensible_CD": 48,
+    "comprehensible_pct": 71.1,
+    "grade_distribution": {
+      "A": 40,
+      "B": 78,
+      "C": 27,
+      "D": 21
+    },
+    "by_content_type": {
+      "ritual": 52,
+      "narrative": 19,
+      "philosophy": 18,
+      "prayer": 27,
+      "catalog": 2
+    }
+  }
+}

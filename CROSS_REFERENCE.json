@@ -1,0 +1,190 @@
+{
+  "generated": "2026-09-18",
+  "methodology": "Topic-matching by section title/content keywords between Zhang Zhung Snyan Rgyud OCR editions and Buddhist canon AI translations",
+  "confidence_levels": {
+    "high": "Clear doctrinal parallel — same practice genre, shared technical vocabulary",
+    "medium": "Similar theme or overlapping concepts",
+    "low": "Loose thematic connection only",
+    "none": "Bon-specific, no Buddhist parallel found"
+  },
+  "cross_references": [
+    {
+      "topic": "上师瑜伽 (Guru Yoga)",
+      "zhang_zhung_sections": [
+        {"text_id": "W1CZ1000", "page": 189, "title": "光明大圆满耳传·上师瑜伽", "title_bo": "འོད་གསལ་རྫོགས་པའི་སྙན་རྒྱུད་ལས་བླ་མའི་རྣལ་འབྱོར"},
+        {"text_id": "W4CZ332378", "page": 750, "title": "上师瑜伽传承·持明传承释", "title_bo": "བླ་མའི་རྣལ་འབྱོར་གྱི་བརྒྱུད་པ"}
+      ],
+      "matches": [
+        {"file": "RZC002_0016..吉祥绒佐姆大班智达上师瑜伽·降福德甘露.c3.7s.md", "volume": "vol11a-宁玛噶玛外一篇", "confidence": "high"},
+        {"file": "RZC002_0016.荣宗班智达大师之上师瑜伽加持降雨.g2.0f.md", "volume": "vol11b-宁玛噶玛2.5版", "confidence": "high"},
+        {"file": "LT10_0016..龙德多杰桑巴中的禅修方法：详细编排的上师加持仪轨.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "medium"},
+        {"file": "L004.103上师次第十义 c3.5s.md", "volume": "vol01-龙钦绕绛全集", "confidence": "medium"},
+        {"file": "KMC003_0004.夏玛巴第五世所著的上师遥呼.g2.0f.md", "volume": "vol07-噶举大宝伏藏", "confidence": "low"}
+      ]
+    },
+    {
+      "topic": "大圆满见·觉性续部 (Dzogchen View / Rigpa Tantra)",
+      "zhang_zhung_sections": [
+        {"text_id": "W1CZ1000", "page": 255, "title": "觉性裸见续部·真实心要窍诀", "title_bo": "རིག་པ་གཅེར་མཐོང་རྒྱུད་སྐོར"},
+        {"text_id": "W1CZ1000", "page": 473, "title": "大觉性续部", "title_bo": "རིག་པ་ཆེན་པོའི་རྒྱུད"},
+        {"text_id": "W1CZ1000", "page": 277, "title": "大觉性象雄耳传部"},
+        {"text_id": "W4CZ332378", "page": 650, "title": "大圆满见·法性现前", "title_bo": "ཆོས་ཉིད་མངོན་སུམ"}
+      ],
+      "matches": [
+        {"file": "001.002.008.001一切法大圆满菩提心普作王续.md", "volume": "vol02-宁玛十万续", "confidence": "high"},
+        {"file": "003大圆满秘密智慧", "volume": "vol02-宁玛十万续", "confidence": "high"},
+        {"file": "005大圆满法性菩提心吉祥不变虚空", "volume": "vol02-宁玛十万续", "confidence": "high"},
+        {"file": "006大圆满了义集", "volume": "vol02-宁玛十万续", "confidence": "high"},
+        {"file": "007大圆满等空一切见修精要", "volume": "vol02-宁玛十万续", "confidence": "high"},
+        {"file": "L001.027吉祥圆满大圆满极秘密心滴之深奥口诀《四部书》.md", "volume": "vol01-龙钦绕绛全集", "confidence": "high"},
+        {"file": "L003.250大圆满心髓的教言 c3.5s.md", "volume": "vol01-龙钦绕绛全集", "confidence": "high"},
+        {"file": "20大圆满心性休息上册", "volume": "vol01-龙钦绕绛全集", "confidence": "high"},
+        {"file": "21大圆满心性休息下册", "volume": "vol01-龙钦绕绛全集", "confidence": "high"},
+        {"file": "LT10_0008.大圆满心部经续精要.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "high"},
+        {"file": "LT10_0011.大圆满心部引导文.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "high"},
+        {"file": "LT10_0015..大圆满虚空部续典精要摘录.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "medium"}
+      ]
+    },
+    {
+      "topic": "灌顶 (Empowerment / Abhisheka)",
+      "zhang_zhung_sections": [
+        {"text_id": "W1CZ1000", "page": 154, "title": "四续中间灌顶释", "title_bo": "རྒྱུད་བཞི་པའི་བར་དབང་གིས་བཤད་པ"},
+        {"text_id": "W4CZ332378", "page": 50, "title": "灌顶仪轨·修行次第"},
+        {"text_id": "W4CZ332378", "page": 1000, "title": "伏藏教法·灌顶"}
+      ],
+      "matches": [
+        {"file": "L003.001无戏论灌顶注解 c3.5s.md", "volume": "vol01-龙钦绕绛全集", "confidence": "high"},
+        {"file": "L003.065授予四种灌顶仪轨论 c3.5s.md", "volume": "vol01-龙钦绕绛全集", "confidence": "high"},
+        {"file": "12秘密轮灌顶仪轨明灯", "volume": "vol01-龙钦绕绛全集", "confidence": "high"},
+        {"file": "padkar1404_空行耳传灌顶河流详解.g2.0f.md", "volume": "vol07-噶举大宝伏藏", "confidence": "high"},
+        {"file": "L003.344无分别灌顶 c3.5s.md", "volume": "vol01-龙钦绕绛全集", "confidence": "medium"},
+        {"file": "L003.353无分别智法王灌顶 c3.5s.md", "volume": "vol01-龙钦绕绛全集", "confidence": "medium"},
+        {"file": "LT10_0009.十八种心部母子窍决·赐予十八种智慧力灌顶仪轨.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "medium"}
+      ]
+    },
+    {
+      "topic": "中阴教法 (Bardo Teachings)",
+      "zhang_zhung_sections": [
+        {"text_id": "W00EGS1016835", "page": 691, "title": "中阴心灯", "title_bo": "བར་དོ་ཐུགས་ཀྱི་སྒྲོན་མ"},
+        {"text_id": "W00EGS1016835", "page": 407, "title": "国王遗教·空行母窍诀·中阴教法"}
+      ],
+      "matches": [
+        {"file": "LT10_0007.地狱彻摧之引导文：深道显明.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "medium"},
+        {"file": "L004.126佛陀大师圆寂传 C3.5S.md", "volume": "vol01-龙钦绕绛全集", "confidence": "low"}
+      ],
+      "notes": "Zhang Zhung bardo teachings are distinctive Bon texts. Buddhist Bardo Thödol not found in these 14 volumes."
+    },
+    {
+      "topic": "光明明点 (Luminous Bindu / Thig-le)",
+      "zhang_zhung_sections": [
+        {"text_id": "W1CZ1000", "page": 529, "title": "光明明点·心引导大布局密意"},
+        {"text_id": "W1CZ1000", "page": 607, "title": "光明明点部"},
+        {"text_id": "W1CZ1000", "page": 139, "title": "光明续·心要秘密普巴文"}
+      ],
+      "matches": [
+        {"file": "001.594.034.004秘密明点等虚空际续.md", "volume": "vol02-宁玛十万续", "confidence": "high"},
+        {"file": "001.571.007.016菩提心金刚光明广大续.md", "volume": "vol02-宁玛十万续", "confidence": "high"},
+        {"file": "L003.240心髓精华滴 c3.5s.md", "volume": "vol01-龙钦绕绛全集", "confidence": "high"},
+        {"file": "L001.222大圆满秘密心滴之口诀·珍宝铜字本.md", "volume": "vol01-龙钦绕绛全集", "confidence": "high"},
+        {"file": "LT10_0014..珍贵耳传教法《空性心要》安乐修法.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "high"},
+        {"file": "L003.221本初佛密意一体 c3.5s.md", "volume": "vol01-龙钦绕绛全集", "confidence": "medium"}
+      ]
+    },
+    {
+      "topic": "五智教法 (Five Wisdoms)",
+      "zhang_zhung_sections": [
+        {"text_id": "W4CZ332378", "page": 350, "title": "五智教法", "title_bo": "ཡེ་ཤེས་ལྔ"}
+      ],
+      "matches": [
+        {"file": "009三身融合", "volume": "vol02-宁玛十万续", "confidence": "medium"},
+        {"file": "L003.266无上深奥四身本体之经典安住 C3.5S.md", "volume": "vol01-龙钦绕绛全集", "confidence": "medium"}
+      ],
+      "notes": "Five Wisdoms is pervasive in both traditions; no single dedicated text found."
+    },
+    {
+      "topic": "持明传承·成就法 (Vidyadhara / Sadhana)",
+      "zhang_zhung_sections": [
+        {"text_id": "W1CZ1000", "page": 241, "title": "大持明传规成就法"},
+        {"text_id": "W00EGS1016835", "page": 271, "title": "自生智慧金刚部"}
+      ],
+      "matches": [
+        {"file": "RZC002_0009..向弟子三昧耶持明者所说的八围墙的规约.c3.7s.md", "volume": "vol11a-宁玛噶玛外一篇", "confidence": "medium"},
+        {"file": "LT10_0013.从阿阇梨嘎拉多杰传承下来的大圆满心部派伊垂的教言.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "medium"},
+        {"file": "LT10_0017..大圆满龙德耳传珍贵金刚桥修法实践.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "medium"}
+      ]
+    },
+    {
+      "topic": "传承祈请 (Lineage Prayer)",
+      "zhang_zhung_sections": [
+        {"text_id": "W1CZ1000", "page": 591, "title": "象雄耳传传承祈请文"},
+        {"text_id": "W00EGS1016835", "page": 19, "title": "传承世系"}
+      ],
+      "matches": [
+        {"file": "LT10_0012.大圆满心部传承祈请文·加持的盛宴.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "high"},
+        {"file": "LT10_0018..大圆满龙部金刚桥传承上师祈请文.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "high"}
+      ]
+    },
+    {
+      "topic": "口诀部·窍诀 (Oral Instructions / Upadesha)",
+      "zhang_zhung_sections": [
+        {"text_id": "W4CZ332378", "page": 950, "title": "口诀部"},
+        {"text_id": "W00EGS1016835", "page": 1353, "title": "口诀要义品"}
+      ],
+      "matches": [
+        {"file": "RZC001_0006..《窍诀见解之串珠》.c3.7s.md", "volume": "vol11a-宁玛噶玛外一篇", "confidence": "medium"},
+        {"file": "RZC001_0007..《窍诀见解串珠释》.c3.7s.md", "volume": "vol11a-宁玛噶玛外一篇", "confidence": "medium"},
+        {"file": "LT10_0002..《教言藏》第一卷《见解珠鬘》.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "medium"},
+        {"file": "L003.268续部经典口诀精华一百一十九个义理名目 C3.5S.md", "volume": "vol01-龙钦绕绛全集", "confidence": "medium"},
+        {"file": "L003.235投入大海彼岸之口诀 c3.5s.md", "volume": "vol01-龙钦绕绛全集", "confidence": "medium"}
+      ]
+    },
+    {
+      "topic": "禅定部 (Meditation)",
+      "zhang_zhung_sections": [
+        {"text_id": "W00EGS1016835", "page": 497, "title": "禅定部"}
+      ],
+      "matches": [
+        {"file": "L004.057禅定明眼论 C3.5S.md", "volume": "vol01-龙钦绕绛全集", "confidence": "medium"},
+        {"file": "LT10_0006..大集法心性禅修次第之精华编排.c3.7s.md", "volume": "vol11a-窍诀藏", "confidence": "medium"},
+        {"file": "001.524.008.008菩提心誓言禅定滴续.md", "volume": "vol02-宁玛十万续", "confidence": "medium"}
+      ]
+    },
+    {
+      "topic": "大解脱部 (Great Liberation)",
+      "zhang_zhung_sections": [
+        {"text_id": "W00EGS1016835", "page": 507, "title": "大解脱部"}
+      ],
+      "matches": [
+        {"file": "001.661.008.003一切法大圆满菩提心断除轮回根本等同虚空无文字续.md", "volume": "vol02-宁玛十万续", "confidence": "medium"}
+      ]
+    },
+    {
+      "topic": "大乘论典·佛功德品 (Mahayana Treatise)",
+      "zhang_zhung_sections": [
+        {"text_id": "W1CZ1000", "page": 306, "title": "大乘论典·佛功德品"}
+      ],
+      "matches": [
+        {"file": "KMC006_0002.大乘经庄严论.g2.0f.md", "volume": "vol07-噶举大宝伏藏", "confidence": "medium"}
+      ],
+      "notes": "Bon text borrowing Buddhist Mahayana framework"
+    }
+  ],
+  "bon_specific_no_match": [
+    {"text_id": "W1CZ1000", "page": 9, "title": "觉性布谷鸟·神人传承品", "reason": "Shen lineage — Bon deity genealogy"},
+    {"text_id": "W1CZ1000", "page": 153, "title": "色究竟天·象雄语耳传部", "reason": "Zhang Zhung language section"},
+    {"text_id": "W1CZ1000", "page": 431, "title": "功德化身·安乐持母", "reason": "Bon-specific female deity"},
+    {"text_id": "W1CZ1000", "page": 487, "title": "象雄耳传母子部", "reason": "Mother-son cycle — Bon structure"},
+    {"text_id": "W1CZ1000", "page": 621, "title": "传承汇编跋文", "reason": "Colophon"},
+    {"text_id": "W00EGS1016835", "page": 3, "title": "轮涅修法成就·大悲传记", "reason": "Bon biographical text"},
+    {"text_id": "W00EGS1016835", "page": 978, "title": "四续精要部", "reason": "Bon-specific four-tantra content"}
+  ],
+  "summary": {
+    "total_zhang_zhung_sections_analyzed": 30,
+    "sections_with_high_confidence_matches": 8,
+    "sections_with_medium_only": 5,
+    "sections_bon_specific_no_match": 7,
+    "strongest_parallels": "Dzogchen view texts (Nyingma rDzogs-chen ↔ Bon rDzogs-chen)",
+    "weakest_parallels": "Bardo teachings, Bon-specific lineage materials",
+    "key_volumes": ["vol01-龙钦绕绛全集", "vol02-宁玛十万续", "vol11a-宁玛噶玛外一篇"]
+  }
+}

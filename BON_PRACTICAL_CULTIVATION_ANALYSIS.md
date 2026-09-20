@@ -302,23 +302,32 @@ John Myrdhin Reynolds (2005) *The Oral Tradition from Zhang-Zhung: An Introducti
 | 5. ཤེས་རབ་རང་བྱུང་སྒྲོན་མ | Lamp of Self-Arising Wisdom (智慧自起灯) | 本初智慧自生——不依外缘而显现 | P3 "无传承之本智"（C1核心）、P4 甘露=觉性本体 | ★★★ 高度对应（C1核心概念） |
 | 6. བར་དོ་ཀྱི་སྒྲོན་མ | **Lamp of the Bardo (中阴灯)** | 临终与中阴的操作指引 | **P8 中阴心灯（A1）** | ★★★ **精确对应** |
 
-**关键发现**：我们OCR的P8《中阴心灯》与Reynolds书中**第六灯（Lamp of the Bardo）**直接对应。Reynolds翻译了该灯的根本颂和注释，我们的OCR提供了另一个版本（可能是Menri版或其他传承），两者互为印证。
+**P8 = 第六灯的引用依据**（多源交叉验证）：
+
+1. **文本内证**：P8的藏文标题 བར་དོ་ཐུགས་ཀྱི་སྒྲོན་མ（bar do thugs kyi sgron ma）直接含"བར་དོ"（bardo/中阴）+ "སྒྲོན་མ"（sgron ma/灯）。六灯（sgron ma drug）中以"bar do"命名的灯只有一盏——即"Lamp of the Bardo"。这是最直接的字面对应。
+2. **Reynolds (2005) 被引情况**：Wikipedia Tögal词条引用Reynolds四次（脚注4），称其书将脱噶称为"the practice of vision"和"the practice of the Clear Light (od-gsal)"——这恰好是六灯教法的核心修行内容。Reynolds的书名副标题 *An Introduction to the Bonpo Dzogchen Teachings of the Oral Tradition from Zhang-Zhung Known as the Zhang-zhung snyan-rgyud* 明确指出其研究对象就是我们OCR的同一文本传统。
+3. **Hatchell (2014) p.57 的六灯生理框架**（Wikipedia引用原文）："pure awareness is locked away in the body's core, localized at the heart. A set of luminous energy channels then run from the heart to the eyes, acting as pathways through which awareness can travel and exit the body."——这与我们P4（脉气明点部）和P8的"心灯"概念完全吻合：觉性住于心间→经光明脉道→从眼出→显现为声光芒。
+4. **Achard (2009)** 在 *Revue d'Études Tibétaines* No.16 发表专题论文讨论六灯，是法文学界对此框架的专门研究。
+5. **Reynolds (1989) pp.71-115**（Wikipedia Bardo Thodol词条脚注14-17引用）：Reynolds指出Evans-Wentz对大圆满的多个误读源于神智学偏见，并提供了更准确的中阴教法理解——这一批评性视角正说明Reynolds对苯教中阴传统有深入研究。
+
+> ⚠️ **诚实声明**：我们未能在线获取Reynolds (2005)的完整目录或具体章节编号（Amazon/Scribd/学术数据库均无法访问全文）。上述对应关系基于：(a) P8藏文标题与六灯框架的字面匹配；(b) 多个学术二手来源的交叉引用；(c) Hatchell对六灯生理框架的描述与我们P4/P8内容的结构吻合。**建议获取Reynolds实体书后，核实具体章节编号和页码，以便精确引用。**
 
 **Reynolds书中与P8直接可比的内容**：
 
-1. **四种中阴分类**——Reynolds也讨论了苯教的四中阴 vs 佛教六中阴，与我们P8 p.698-702的分析一致
-2. **临终光明**——Reynolds翻译了"死位中阴"(chi kha'i bar do)的具体操作，对应我们P8的"外呼吸停→内息窗口"
-3. **声光芒三要素**——六灯教法的核心修行体验，贯穿前五灯和第六灯，对应我们A2脱噶部分
-4. **缘起回遮**——Reynolds提及此苯教独有仪轨，但未做详细翻译，我们P8的记录可能更完整
+1. **四种中阴分类**——Reynolds讨论苯教的四中阴 vs 佛教六中阴（Wikipedia Bardo Thodol词条已确认佛教为六中阴：chikhai/chonyid/sidpa三死后中阴 + 生/禅定/梦三生前中阴），与我们P8 p.698-702的四中阴分析形成直接对比
+2. **临终光明**——六灯体系的核心是"觉性从心间经脉道到眼睛"（Hatchell 2014, p.57），我们P8 p.698, 702描述的"外呼吸停→内息窗口→法身光明显露"正是这一过程的临终阶段操作指引
+3. **声光芒三要素**——六灯教法的核心修行体验（sgra/od/zer = 声/光/芒），贯穿前五灯直至第六灯，对应我们A2脱噶的"三层明现递进"
+4. **缘起回遮**——苯教独有仪轨，Reynolds是否有详译待核实，我们P8的记录可能提供了更完整的操作细节
 
-**Reynolds未覆盖但我们有的**：
-- 四种明点决定法（p.708）的具体操作步骤——Reynolds的翻译侧重根本颂的哲学层面
-- 十一种正行成就法的清单——属于实修细节，Reynolds偏向概论
+**Reynolds未覆盖但我们可能独有的**：
+- **四种明点决定法**（p.708）的具体操作步骤——学术翻译通常侧重根本颂的哲学层面而非操作手册
+- **十一种正行成就法**的清单——属于实修细节层面
+- **时障 vs 魔障**的精细分类——佛教中阴文献通常以"六道光引诱"笼统处理
 
 **可引用进分析的Reynolds内容**：
-- 六灯框架本身就是理解我们30段OCR的最佳组织原则
-- Reynolds对"觉性脉道"（从心间到眼睛的白色水晶脉）的解释，直接补充了我们A2脱噶部分
-- Reynolds的术语翻译可用于校对我们的统一词汇表
+- 六灯框架本身是理解我们30段OCR的最佳组织原则——每段OCR内容都能归入六灯中的一盏
+- Reynolds/Hatchell对"觉性脉道"（从心间到眼睛的白色水晶脉 dkar 'jam rtsa）的解释，直接补充我们A2脱噶部分
+- Reynolds的术语翻译（英←→藏）可用于校对我们的统一词汇表中64%共享术语的准确性
 
 ---
 

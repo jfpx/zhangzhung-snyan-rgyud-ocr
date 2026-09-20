@@ -283,4 +283,113 @@
 
 ---
 
+---
+
+## Reynolds《The Oral Tradition from Zhang-Zhung》章节对照
+
+John Myrdhin Reynolds (2005) *The Oral Tradition from Zhang-Zhung: An Introduction to the Bonpo Dzogchen Teachings of the Oral Tradition from Zhang-Zhung Known as the Zhang-zhung snyan-rgyud*, Vajra Publications, ISBN 978-99946-644-4-3。
+
+这是**唯一一本**系统翻译和阐释象雄耳传的英文专著。全书核心围绕**六灯**（sgron ma drug）展开，六灯是张仲年居传的精华教法框架：
+
+### 六灯（sgron ma drug）与我们OCR段落的对照
+
+| 灯名（藏文） | 英文 | 内容 | 我们的对应段落 | 匹配度 |
+|-------------|------|------|--------------|--------|
+| 1. གནས་པའི་གཞི་སྒྲོན་མ | Lamp of the Abiding Base | 认识觉性的根基——心性如何安住 | P3 自生智慧金刚（C1 明点自生论）、P12 觉性三种明现（C2） | ★★★ 高度对应 |
+| 2. ཤ་རྒྱ་འཛིན་པའི་སྒྲོན་མ | Lamp of the Flesh-Heart (肉团心灯) | 觉性驻于心间——身体层面的觉性载体 | P4 脉气明点部（A3）、P14 气脉相合（A4） | ★★★ 高度对应 |
+| 3. དཀར་འཇལ་རྩ་སྒྲོན་མ | Lamp of the Soft White Channel (远通水灯) | 从心间到眼睛的光明脉道——脱噶修法的生理基础 | P4 琼鸟征相（A2）、P12 三层明现、P16 有相/无相直指 | ★★★ 高度对应 |
+| 4. དབྱིངས་རྣམ་དག་སྒྲོན་མ | Lamp of the Pure Expanse (界部纯净灯) | 法界展现——虚空与光明的关系 | P3 明点库藏、P12 法界明现 | ★★☆ 中度对应 |
+| 5. ཤེས་རབ་རང་བྱུང་སྒྲོན་མ | Lamp of Self-Arising Wisdom (智慧自起灯) | 本初智慧自生——不依外缘而显现 | P3 "无传承之本智"（C1核心）、P4 甘露=觉性本体 | ★★★ 高度对应（C1核心概念） |
+| 6. བར་དོ་ཀྱི་སྒྲོན་མ | **Lamp of the Bardo (中阴灯)** | 临终与中阴的操作指引 | **P8 中阴心灯（A1）** | ★★★ **精确对应** |
+
+**关键发现**：我们OCR的P8《中阴心灯》与Reynolds书中**第六灯（Lamp of the Bardo）**直接对应。Reynolds翻译了该灯的根本颂和注释，我们的OCR提供了另一个版本（可能是Menri版或其他传承），两者互为印证。
+
+**Reynolds书中与P8直接可比的内容**：
+
+1. **四种中阴分类**——Reynolds也讨论了苯教的四中阴 vs 佛教六中阴，与我们P8 p.698-702的分析一致
+2. **临终光明**——Reynolds翻译了"死位中阴"(chi kha'i bar do)的具体操作，对应我们P8的"外呼吸停→内息窗口"
+3. **声光芒三要素**——六灯教法的核心修行体验，贯穿前五灯和第六灯，对应我们A2脱噶部分
+4. **缘起回遮**——Reynolds提及此苯教独有仪轨，但未做详细翻译，我们P8的记录可能更完整
+
+**Reynolds未覆盖但我们有的**：
+- 四种明点决定法（p.708）的具体操作步骤——Reynolds的翻译侧重根本颂的哲学层面
+- 十一种正行成就法的清单——属于实修细节，Reynolds偏向概论
+
+**可引用进分析的Reynolds内容**：
+- 六灯框架本身就是理解我们30段OCR的最佳组织原则
+- Reynolds对"觉性脉道"（从心间到眼睛的白色水晶脉）的解释，直接补充了我们A2脱噶部分
+- Reynolds的术语翻译可用于校对我们的统一词汇表
+
+---
+
+## 佛教经典交叉参考（推荐阅读对照表）
+
+### A1 中阴心灯——对照佛教文献
+
+| 我们的内容（P8） | 佛教对照文献 | 异同要点 |
+|-----------------|------------|---------|
+| 四中阴分类 | 《中阴闻解脱》(bar do thos grol)——14世纪Karma Lingpa伏藏，定义六中阴 | 苯教四中阴 vs 佛教六中阴；苯教将梦修/禅定归入生前修法 |
+| 四种明点决定法 p.708 | 宁玛《上师心滴》(bla ma snying thig)——龙钦巴编，脱噶四灯修法 | 佛教四灯是显现分类，苯教四种明点法是操作步骤——互补 |
+| 缘起回遮法 | **无直接佛教对应物** | 苯教独有仪轨；佛教中阴法以"闻声解脱"为主 |
+| 时障 vs 魔障分类 | 《度亡经》六道光+业力幻象（笼统） | 苯教分类更精细——区分"时机不利"和"心理恐惧"两类障碍 |
+| 自力解脱（"认母"） | 佛教他力辅助（为亡者朗读） | 苯教更强调修行者自身能力；佛教允许他人辅助 |
+
+**推荐对读**：Evans-Wentz (1927/1960) *The Tibetan Book of the Dead*（经典英译，有荣格心理学评注）；Francesca Fremantle & Chögyam Trungpa (1975) 更准确的翻译版。
+
+### A2 脱噶——对照佛教文献
+
+| 我们的内容 | 佛教对照文献 | 异同要点 |
+|-----------|------------|---------|
+| 有相/无相直指区分 | Hatchell (2014) *Naked Seeing* (Oxford UP)——宁玛派脱噶最详细的英文学术研究 | 宁玛派现存文本多已合并两种直指；苯教保留了分别教授 |
+| 琼鸟光明征相 | 宁玛四灯/四空：空→极空→大空→一切空 | 征相判定系统不同：苯教用大鹏鸟显现，佛教用"空"的四层递进 |
+| 三层明现递进（P12） | 宁玛四灯（肉团心灯、远通水灯、界部纯净灯、智慧自起灯） | 有交叉但分类不重合——可能是同一体验的两种描述体系 |
+| 四种看光方式（P3） | 四种脱噶正坐姿（狮子卧等） | 苯教"看光"操作可能与佛教坐姿指引对应但表述不同 |
+
+**推荐对读**：Hatchell (2014) Ch.3-4 对四视觉（Four Visions）的详细分析——法性现前→增长→觉性圆满→法性穷尽。Wikipedia "Tögal"词条有此四阶段的简洁摘要。
+
+### A3 脉气明点——对照佛教文献
+
+| 我们的内容（P4） | 佛教对照文献 | 异同要点 |
+|-----------------|------------|---------|
+| 脉道"自然运行" | 那洛六法(Nā ro chos drug)——噶举派核心密法 | 佛教"强制导引"气入中脉 vs 苯教"自然运行"——最有价值的方法论差异 |
+| 明点=刹土显现 | 《时轮密续》(Kālacakra)——明点修法 | 佛教视明点为修法产物；苯教视为本有的净土显现 |
+| 甘露=觉性本体 | 金刚乘甘露概念（加持物） | 佛教功能论 vs 苯教本体论——不是用不同名称说同一事，是不同的理解框架 |
+| 逆时针卍字方位 | 顺时针曼荼罗 | 苯教雍仲(卍) vs 佛教卐——方位旋转相反是苯教最显眼的标志性差异 |
+
+**推荐对读**：Tenzin Wangyal Rinpoche (2002) *Healing with Form, Energy, and Light*——苯教视角的气脉明点入门，可与佛教那洛六法文献对比。
+
+### C1 明点自生论——对照佛教文献
+
+| 我们的内容（P3） | 佛教对照文献 | 异同要点 |
+|-----------------|------------|---------|
+| rang byung（自生）极端版 | 龙钦巴《七宝藏论》——大圆满见地 | 佛教也讲"本有"但强调修行显现；苯教P3"无传承之本智"走得更极端 |
+| 种子字ཨ（A） | 佛教种子字ཧཱུྃ（hūṃ） | 苯教以"A"为根本字——可能源于象雄语传统 |
+| "非修"立场 | 禅宗"本来无一物" + 大圆满立断(trekchö) | 操作层面≈立断；差异在"态度"——苯教比大圆满更彻底地否定修行的必要性 |
+
+---
+
+## 参考文献
+
+### 直接引用
+
+- **Reynolds, John Myrdhin (2005)**. *The Oral Tradition from Zhang-Zhung: An Introduction to the Bonpo Dzogchen Teachings*. Vajra Publications. ISBN 978-99946-644-4-3. ——唯一系统翻译象雄耳传的英文专著；六灯框架与本文A1/A2/A3/C1高度对应。
+- **Hatchell, Christopher (2014)**. *Naked Seeing: The Great Perfection, the Wheel of Time, and Visionary Buddhism in Renaissance Tibet*. Oxford University Press. ——宁玛派脱噶最详细的英文学术研究；四视觉(Four Visions)框架。
+- **Evans-Wentz, W. Y. (1927/1960)**. *The Tibetan Book of the Dead*. Oxford University Press. ——经典英译，有荣格心理学评注。Reynolds指出其中存在受神智学影响的误读。
+- **Fremantle, F. & Trungpa, C. (1975)**. *The Tibetan Book of the Dead: The Great Liberation through Hearing in the Bardo*. Shambhala. ——更准确的翻译版。
+
+### 背景参考
+
+- **Germano, David (2005)**. "Dzogchen". In *Macmillan Encyclopedia of Religion*. Vol. 4. ——大圆满综述。
+- **van Schaik, Sam (2004)**. *Approaching the Great Perfection*. Wisdom Publications. ——龙钦宁提渐次与顿悟修法。
+- **Tenzin Wangyal Rinpoche (2002)**. *Healing with Form, Energy, and Light*. Snow Lion. ——苯教气脉明点入门。
+- **Geisshuesler, Flavio (2024)**. *Tibetan Sky-Gazing Meditation and the Pre-History of Great Perfection Buddhism*. Bloomsbury. ——最新研究，探讨脱噶的前佛教起源。
+- **Achard, Jean-Luc (2009)**. "The Six Lamps". *Revue d'Etudes Tibétaines*, No. 16. ——法文学者对六灯的专题论文。
+- **Keutzer, K.** "The Tshon Gang in Bon Dzogchen". *Revue d'Etudes Tibétaines*, No. 44. ——苯教大圆满特有的"虹彩关"(tshon gang)修法。
+
+### 我们工作的独特贡献
+
+本分析可能是**首个中文语境下苯教 vs 佛教实修技术的系统比较**。中文学术界在此领域几乎空白——中国藏学研究偏重历史和政治，对苯教密法的比较研究极少。英文学界虽有Reynolds (2005)和Hatchell (2014)等先行者，但也主要聚焦宁玛派脱噶，对苯教版的独特实修细节（如我们发现的四种明点决定法、缘起回遮法、"自然运行"路径）关注不足。
+
+---
+
 *基于象雄耳传OCR 30段白话文解读综合分析 · 2026-09*

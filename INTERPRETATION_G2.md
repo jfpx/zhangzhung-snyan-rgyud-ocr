@@ -180,7 +180,7 @@
 
 **白话文解读**：**子文本标题页**——"从此殊胜礼敬之力精华中生出的、无与伦比的甘露"。这是一个新小节的开始标记，以"甘露"（bdud rtsi）为隐喻命名。甘露在苯教中象征究竟智慧的法味，是大圆满证悟的比喻。
 
-**苯教特色**：⚡ 苯教"甘露"意象源自象雄的"九甘露"（bdud rtsi dgu）传统，与佛教甘露（从搅乳海来）来源完全不同。
+**苯教特色**：⚡ 苯教"甘露"（bdud rtsi）在此用为密续教法的比喻名称。注意：佛教"甘露"（amṛta）典故源自印度教"搅乳海"（samudra manthana）神话，后被佛教吸收为譬喻。苯教 bdud rtsi 是否独立于此印度传统需进一步考证，但"九甘露"（bdud rtsi dgu）分类确为苯教特色。
 
 **OCR质量**：B+（标题页，字少清晰）
 
@@ -400,7 +400,7 @@
 | སེམས་ཉིད་ངོ་སྤྲོད | sems nyid ngo sprod | 心性直指 | Direct Introduction to Mind Nature |
 | བདག་མེད | bdag med | 无我 | Anātman (Non-self) |
 | ཁྱུང | khyung | 大鹏（苯教护法） | Garuda (Bon protector) |
-| མཚོ་སྐྱེས | mtsho skyes | 湖生 | Lake-born |
+| མཚོ་སྐྱེས | mtsho skyes | 湖生（注：佛教语境中 mtsho skyes 常指莲花生大师 Padmasambhava，意为"湖中化生"；苯教文献中此名指涉需结合上下文判断） | Lake-born |
 | བརྟུལ་ཞུགས | brtul zhugs | 禁行/苦行 | Ascetic Conduct |
 | འོད་གསལ | 'od gsal | 光明/明光 | Clear Light (Luminosity) |
 | སྒྲོན་མ་འབར་བ | sgron ma 'bar ba | 炽燃灯 | Blazing Lamp |
